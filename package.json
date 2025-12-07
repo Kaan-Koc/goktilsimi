@@ -2,7 +2,6 @@
   "name": "astroloji-fal-sitesi",
   "version": "1.0.0",
   "description": "AI destekli astroloji ve fal platformu",
-  "main": "server/server.js",
   "type": "module",
   "scripts": {
     "start": "node server/server.js",
