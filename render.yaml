@@ -10,16 +10,16 @@ services:
       - key: PORT
         value: 3000
       - key: GROQ_API_KEY
-        sync: false
+        value: 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
       - key: JWT_SECRET
-        sync: false
+        value: mystical-stars-secret-key-change-in-production-2024
       - key: SMTP_HOST
-        sync: false
+        value: smtp-relay.brevo.com
       - key: SMTP_PORT
-        sync: false
+        value: 587
       - key: SMTP_USER
-        sync: false
+        value: 9d6f7c001@smtp-brevo.com
       - key: SMTP_PASS
-        sync: false
+        value: xsmtpsib-f30c6ecef60406f11317c44cc57923eddb268e139802cd031bed60c904921d5d-tsUt0LVYEq2R5NfK
       - key: EMAIL_FROM
-        sync: false
+        value: GokTilsimi <goktilsimi@gmail.com>
